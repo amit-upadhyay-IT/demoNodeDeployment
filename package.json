@@ -1,0 +1,18 @@
+{
+  "name": "reqparam1",
+  "version": "1.0.0",
+  "description": "demo of request params",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app3.js"
+  },
+  "keywords": [
+    "req",
+    "express"
+  ],
+  "author": "amit",
+  "license": "AIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
